@@ -1,3 +1,3 @@
-token = '6644721684:AAEAlmIw3y9aJIcZ0hWZrrXOubO_Tj5LSm0'
-chat_id = '846473666'
+token = 'Your_token'
+chat_id = 'Your chat id' #you can find you chat id if you run code in file tel_bot.py
 # BOT_USERNAME = '@currency_rate_usd_bot'
